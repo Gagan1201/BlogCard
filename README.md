@@ -44,3 +44,4 @@ To center a div in body vertically, body's height had to be set 100vh
 
 ## Author
 - Frontend Mentor - [@Gagan1201](https://www.frontendmentor.io/profile/Gagan1201)
+- Twitter - [@gagank1201](https://twitter.com/gagank1201)
